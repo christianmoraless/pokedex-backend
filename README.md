@@ -46,3 +46,11 @@
   docker-compoes up -d
 
 ```
+
+5. Cargar la base de datos
+
+```
+
+  localhost:3000/api/v1/seed/
+
+```
